@@ -32,6 +32,7 @@ Future Improvements:
 - Adding more APIs to improve data breach tracking.
 - Sending email alerts when new breaches are detected.
 - Including more security features like multi-factor authentication guidance.
+![image](https://github.com/user-attachments/assets/ce9789c9-d3ad-4889-a179-5d2af2cfe38b)
 
 Developed By: [Meenakshi A]
 
